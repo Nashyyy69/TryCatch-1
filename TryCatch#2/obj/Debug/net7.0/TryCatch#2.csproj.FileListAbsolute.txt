@@ -1,0 +1,14 @@
+C:\C#\OOP\TryCatch#2\TryCatch#2\bin\Debug\net7.0\TryCatch#2.exe
+C:\C#\OOP\TryCatch#2\TryCatch#2\bin\Debug\net7.0\TryCatch#2.deps.json
+C:\C#\OOP\TryCatch#2\TryCatch#2\bin\Debug\net7.0\TryCatch#2.runtimeconfig.json
+C:\C#\OOP\TryCatch#2\TryCatch#2\bin\Debug\net7.0\TryCatch#2.dll
+C:\C#\OOP\TryCatch#2\TryCatch#2\bin\Debug\net7.0\TryCatch#2.pdb
+C:\C#\OOP\TryCatch#2\TryCatch#2\obj\Debug\net7.0\TryCatch#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\OOP\TryCatch#2\TryCatch#2\obj\Debug\net7.0\TryCatch#2.AssemblyInfoInputs.cache
+C:\C#\OOP\TryCatch#2\TryCatch#2\obj\Debug\net7.0\TryCatch#2.AssemblyInfo.cs
+C:\C#\OOP\TryCatch#2\TryCatch#2\obj\Debug\net7.0\TryCatch#2.csproj.CoreCompileInputs.cache
+C:\C#\OOP\TryCatch#2\TryCatch#2\obj\Debug\net7.0\TryCatch#2.dll
+C:\C#\OOP\TryCatch#2\TryCatch#2\obj\Debug\net7.0\refint\TryCatch#2.dll
+C:\C#\OOP\TryCatch#2\TryCatch#2\obj\Debug\net7.0\TryCatch#2.pdb
+C:\C#\OOP\TryCatch#2\TryCatch#2\obj\Debug\net7.0\TryCatch#2.genruntimeconfig.cache
+C:\C#\OOP\TryCatch#2\TryCatch#2\obj\Debug\net7.0\ref\TryCatch#2.dll
